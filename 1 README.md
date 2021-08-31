@@ -1,7 +1,7 @@
 # portfolio-landing-page
 Edward Gero , 
 personal website portfolio
-This is my initial , website portfolio
+this is my initial website portfolio.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,6 +66,7 @@ This is my initial , website portfolio
             I completed my highschool education in 2019, at Moi Forces Academy, in Eastleigh ,Nairobi. At primary level, 
             i studied at a school called,Precious Gift Group of schools, located in komarock area, Nairobi.
         </p>
+        </div>
         <p><strong>I decided to study programming, due to the following reason:</strong>
             <ul>
                 <li>Programming jobs always have been and always will be in demand. 
