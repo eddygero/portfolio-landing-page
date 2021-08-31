@@ -60,12 +60,12 @@ this is my initial website portfolio.
                 </p>
             </diV>
         <div>
-  <h2 class="subtitles">MY BACKGROUND</h2>
-        <p class="para-text"> I was born, and raised , in <em>Nairobi city</em>, im currently 19
+            <h2 class="subtitles">MY BACKGROUND</h2>
+          <p class="para-text"> I was born, and raised , in <em>Nairobi city</em>, im currently 19
             years old , studying at <a href="http://moringaschool.com" target="_blank">moringa school.</a>
             I completed my highschool education in 2019, at Moi Forces Academy, in Eastleigh ,Nairobi. At primary level, 
             i studied at a school called,Precious Gift Group of schools, located in komarock area, Nairobi.
-        </p>
+            </p>
         </div>
         <p><strong>I decided to study programming, due to the following reason:</strong>
             <ul>
@@ -75,18 +75,18 @@ this is my initial website portfolio.
                      Not only does this mean that there is an abundance of jobs, 
                      but it means salaries are high and you will never be out of work.
                      There is particular demand for coders who have experience in specialist sectors such as
-                     AI, blockchain, and machine learning.</li>
+                     AI, blockchain, and machine learning.</li> </p>
 
                 <li>Pretty much every country has a need for computer programmers. 
                     From creating code to automating processes and developing new solutions- 
                     programmers are very much needed. If you can code or are learning how to, 
                     your employer will want to keep hold of you. 
                     As the company grows, it can give you the ability to grow with the company, 
-                    taking on more tasks and responsibilities moving forward.</li>
+                    taking on more tasks and responsibilities moving forward.</li> 
 
                  <li>Programing jobs tend to pay a lot more than other roles. Furthermore, programmers can choose to 
                      work for a company, remotely, on contracts, or as freelancers.
-                     There are even consultancy roles where wages are significantly higher.</li>   
+                     There are even consultancy roles where wages are significantly higher.</li>  </ul> 
             </ul>
             <img id="image2" src="images/fourth pic .jpg" alt="">
         </p>
