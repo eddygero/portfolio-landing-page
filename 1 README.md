@@ -1,3 +1,7 @@
+# portfolio-landing-page
+Edward Gero , 
+personal website portfolio
+this is my initial website portfolio.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +28,7 @@
         <h2 class="subtitles">WELCOME TO THE OFFICIAL WEBSITE OF EDWARD GERO</h2>
 
     </h1>
-    
+
       <div class="overlay">
 
         <div> 
@@ -107,3 +111,4 @@
 </body>
 
 </html>
+
